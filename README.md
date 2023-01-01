@@ -1,5 +1,5 @@
 # 2023-Algorithm-Study
-UMC 3기 코딩테스트 스터디입니다.
+인하대 UMC 3기 코딩테스트 스터디입니다.
 
 ## ⏰ 스터디 날짜 & 시간
 
@@ -29,25 +29,16 @@ UMC 3기 코딩테스트 스터디입니다.
 - 모든 금액이 깎여 0원이 되면 환급 불가 및 이후 스터디 진행 불가
 
 ## 📓 커리큘럼
-
-1) [자료구조](https://www.acmicpc.net/problemset?sort=ac_desc&algo=175)
-
-2) [완전탐색](https://www.acmicpc.net/problemset?sort=ac_desc&algo=125)
-
-3) [재귀](https://www.acmicpc.net/problemset?sort=ac_desc&algo=62)
-
-4) [그리디](https://www.acmicpc.net/problemset?sort=ac_desc&algo=33)
-
-5) [이진 탐색](https://www.acmicpc.net/problemset?sort=ac_desc&algo=12)
-
-6) [DFS](https://www.acmicpc.net/problemset?sort=ac_desc&algo=127)/[BFS](https://www.acmicpc.net/problemset?sort=ac_desc&algo=126)
-
-7) [정렬](https://www.acmicpc.net/problemset?sort=ac_desc&algo=97)
-
-8) [DP](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25)
-
-9) [최단 경로](https://www.acmicpc.net/step/26)
-
-10) [그래프](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)
-
-11) [슬라이딩 윈도우](https://www.acmicpc.net/problemset?sort=ac_desc&algo=68), [투 포인터](https://www.acmicpc.net/problemset?sort=ac_desc&algo=80)
+|회차|내용|날짜|진행 현황|
+|------|---|---|---|
+|1회차|[자료구조](https://www.acmicpc.net/problemset?sort=ac_desc&algo=175)|2023.01.02||
+|2회차|[완전탐색](https://www.acmicpc.net/problemset?sort=ac_desc&algo=125)|2023.01.04||
+|3회차|[재귀](https://www.acmicpc.net/problemset?sort=ac_desc&algo=62)|2023.01.07||
+|4회차|[그리디](https://www.acmicpc.net/problemset?sort=ac_desc&algo=33)|2023.01.09||
+|5회차|[이진 탐색](https://www.acmicpc.net/problemset?sort=ac_desc&algo=12)|2023.01.11||
+|6회차|[DFS](https://www.acmicpc.net/problemset?sort=ac_desc&algo=127)/[BFS](https://www.acmicpc.net/problemset?sort=ac_desc&algo=126)|2023.01.14||
+|7회차|[정렬](https://www.acmicpc.net/problemset?sort=ac_desc&algo=97)|2023.01.16||
+|8회차|[DP](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25)|2023.01.18||
+|9회차|[최단 경로](https://www.acmicpc.net/step/26)|2023.01.21||
+|10회차|[그래프](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)|2023.01.23||
+|11회차|[슬라이딩 윈도우](https://www.acmicpc.net/problemset?sort=ac_desc&algo=68), [투 포인터](https://www.acmicpc.net/problemset?sort=ac_desc&algo=80)|2023.01.25||
