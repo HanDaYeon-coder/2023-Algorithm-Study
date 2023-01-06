@@ -33,7 +33,7 @@
 |회차|내용|날짜|진행 현황|
 |------|---|---|---|
 |1회차|[자료구조](https://www.acmicpc.net/problemset?sort=ac_desc&algo=175)|2023.01.02|진행 완료|
-|2회차|[완전탐색](https://www.acmicpc.net/problemset?sort=ac_desc&algo=125)|2023.01.04||
+|2회차|[완전탐색](https://www.acmicpc.net/problemset?sort=ac_desc&algo=125)|2023.01.04|진행 완료|
 |3회차|[재귀](https://www.acmicpc.net/problemset?sort=ac_desc&algo=62)|2023.01.07||
 |4회차|[그리디](https://www.acmicpc.net/problemset?sort=ac_desc&algo=33)|2023.01.09||
 |5회차|[이진 탐색](https://www.acmicpc.net/problemset?sort=ac_desc&algo=12)|2023.01.11||
