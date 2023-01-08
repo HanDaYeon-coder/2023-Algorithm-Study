@@ -1,6 +1,6 @@
 #include <iostream>
 #include <algorithm>
-#include <vector>
+#include <vector>https://github.com/HanDaYeon-coder/2023-Algorithm-Study/blob/main/baekjoon_11000_강의실배정.cpp
 #include <queue>
 using namespace std;
 
