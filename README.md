@@ -36,7 +36,7 @@
 |2회차|[완전탐색](https://www.acmicpc.net/problemset?sort=ac_desc&algo=125)|2023.01.04|진행 완료|
 |3회차|[재귀](https://www.acmicpc.net/problemset?sort=ac_desc&algo=62)|2023.01.07|진행 완료|
 |4회차|[그리디](https://www.acmicpc.net/problemset?sort=ac_desc&algo=33)|2023.01.09|진행 완료|
-|5회차|[이진 탐색](https://www.acmicpc.net/problemset?sort=ac_desc&algo=12)|2023.01.11||
+|5회차|[이진 탐색](https://www.acmicpc.net/problemset?sort=ac_desc&algo=12)|2023.01.11|진행 완료|
 |6회차|[DFS](https://www.acmicpc.net/problemset?sort=ac_desc&algo=127)/[BFS](https://www.acmicpc.net/problemset?sort=ac_desc&algo=126)|2023.01.14||
 |7회차|[정렬](https://www.acmicpc.net/problemset?sort=ac_desc&algo=97)|2023.01.16||
 |8회차|[DP](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25)|2023.01.18||
