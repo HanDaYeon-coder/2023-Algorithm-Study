@@ -38,8 +38,8 @@
 |4회차|[그리디](https://www.acmicpc.net/problemset?sort=ac_desc&algo=33)|2023.01.09|진행 완료|
 |5회차|[이진 탐색](https://www.acmicpc.net/problemset?sort=ac_desc&algo=12)|2023.01.11|진행 완료|
 |6회차|[DFS](https://www.acmicpc.net/problemset?sort=ac_desc&algo=127)/[BFS](https://www.acmicpc.net/problemset?sort=ac_desc&algo=126)|2023.01.14|진행 완료|
-|7회차|[정렬](https://www.acmicpc.net/problemset?sort=ac_desc&algo=97)|2023.01.16||
-|8회차|[DP](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25)|2023.01.18||
-|9회차|[최단 경로](https://www.acmicpc.net/step/26)|2023.01.21||
-|10회차|[그래프](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)|2023.01.23||
-|11회차|[슬라이딩 윈도우](https://www.acmicpc.net/problemset?sort=ac_desc&algo=68), [투 포인터](https://www.acmicpc.net/problemset?sort=ac_desc&algo=80)|2023.01.25||
+|7회차|[정렬](https://www.acmicpc.net/problemset?sort=ac_desc&algo=97)|2023.01.16|진행 완료|
+|8회차|[DP](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25)|2023.01.21|진행 완료|
+|9회차|[그래프](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)|2023.01.23||
+|10회차|[최단경로](https://www.acmicpc.net/step/26)|2023.01.25||
+|11회차|[슬라이딩 윈도우](https://www.acmicpc.net/problemset?sort=ac_desc&algo=68), [투 포인터](https://www.acmicpc.net/problemset?sort=ac_desc&algo=80)|2023.01.28||
