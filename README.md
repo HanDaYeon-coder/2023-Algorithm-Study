@@ -1,5 +1,11 @@
 # 2023-Algorithm-Study
-인하대 UMC 3기 코딩테스트 스터디입니다.
+### 알잘딱깔센 - UMC 3기 코딩테스트 스터디
+
+**알**고리즘을
+**잘**
+**딱**
+**깔**끔하고
+**센**스 있게 풀자 !
 
 ## ⏰ 스터디 날짜 & 시간
 
@@ -18,7 +24,7 @@
 
 - 최소 한 문제, 더 하고 싶으면 더 해도 됨
 
-2️⃣ 스터디 날마다 돌아가면서 해당 날짜의 주제에 대한 개념을 간단하게 발표한다. (개념 복습용)
+2️⃣ 스터디 날마다 돌아가면서 해당 날짜의 주제에 대한 개념을 간단하게 발표한다. (개념 복습용) → 시즌2부터는 개념발표 X
 
 3️⃣ **10,000원**의 보증금을 걸고 시작한다.
 
@@ -29,7 +35,7 @@
 - 모든 금액이 깎여 0원이 되면 환급 불가 및 이후 스터디 진행 불가
 
 
-## 📓 커리큘럼
+## 📓 시즌 1 커리큘럼
 |회차|내용|날짜|진행 현황|
 |------|---|---|---|
 |1회차|[자료구조](https://www.acmicpc.net/problemset?sort=ac_desc&algo=175)|2023.01.02|진행 완료|
@@ -40,6 +46,20 @@
 |6회차|[DFS](https://www.acmicpc.net/problemset?sort=ac_desc&algo=127)/[BFS](https://www.acmicpc.net/problemset?sort=ac_desc&algo=126)|2023.01.14|진행 완료|
 |7회차|[정렬](https://www.acmicpc.net/problemset?sort=ac_desc&algo=97)|2023.01.16|진행 완료|
 |8회차|[DP](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25)|2023.01.21|진행 완료|
-|9회차|[그래프](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)|2023.01.23||
-|10회차|[최단경로](https://www.acmicpc.net/step/26)|2023.01.25||
-|11회차|[슬라이딩 윈도우](https://www.acmicpc.net/problemset?sort=ac_desc&algo=68), [투 포인터](https://www.acmicpc.net/problemset?sort=ac_desc&algo=80)|2023.01.28||
+|9회차|[그래프](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)|2023.01.25|진행 완료|
+|10회차|[최단경로](https://www.acmicpc.net/step/26)|2023.01.28|진행 완료|
+|11회차|[슬라이딩 윈도우](https://www.acmicpc.net/problemset?sort=ac_desc&algo=68), [투 포인터](https://www.acmicpc.net/problemset?sort=ac_desc&algo=80)|2023.01.30|진행 완료|
+
+## 📗 시즌 2 커리큘럼
+|회차|내용|날짜|진행 현황|
+|------|---|---|---|
+|1회차|자료구조|2023.02.01|진행 완료|
+|2회차|완전탐색|2023.02.04||
+|3회차|그리디|2023.02.06||
+|4회차|슬라이딩 윈도우|2023.02.08||
+|5회차|이진 탐색, 투 포인터|2023.02.11||
+|6회차|DP|2023.02.13||
+|7회차|그래프|2023.02.15||
+|8회차|트리|2023.02.18||
+|9회차|최단경로|2023.02.20||
+|10회차|코테 기출문제|2023.02.22||
