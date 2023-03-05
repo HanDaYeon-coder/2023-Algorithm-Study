@@ -11,7 +11,6 @@ bool compare(vector<int> a, vector<int> b){
 }
 
 int solution(vector<vector<int>> data, int col, int row_begin, int row_end) {
-    int answer = 0;
     k = col-1;
     
     sort(data.begin(), data.end(), compare);
